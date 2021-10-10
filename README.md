@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/devvaman"><img src="https://api.daily.dev/devcards/075d48d8bf6b43828bbf7a5187848db8.png?r=f9j" width="400" alt="Aman Singh's Dev Card"/></a>
+<a href="https://app.daily.dev/devvaman"><img src="https://github.com/devv-aman/devv-aman/blob/main/devcard.svg" width="400" alt="Aman Singh's Dev Card"/></a>
